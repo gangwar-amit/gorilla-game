@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300">
+  <!-- Background -->
+  <rect width="500" height="300" fill="#1E40AF"/>
+  
+  <!-- Asset Previews Section -->
+  <g id="asset-previews">
+    <!-- Left Gorilla (Player) -->
+    <g transform="translate(60, 150)">
+      <ellipse cx="0" cy="-15" rx="15" ry="18" fill="#8B4513"/>
+      <circle cx="-6" cy="-20" r="2.5" fill="black"/>
+      <circle cx="6" cy="-20" r="2.5" fill="black"/>
+      <ellipse cx="0" cy="-10" rx="7" ry="4" fill="#8B4513" stroke="#6B3100" stroke-width="1"/>
+      <path d="M-10,-10 L-20,-25 L-16,-27 Z" fill="#8B4513"/>
+      <path d="M10,-10 L20,-25 L16,-27 Z" fill="#

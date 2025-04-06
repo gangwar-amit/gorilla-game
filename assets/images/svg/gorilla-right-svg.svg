@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30">
+  <!-- AI Gorilla (30x30px) -->
+  <!-- Body -->
+  <ellipse cx="15" cy="15" rx="10" ry="12" fill="#8B4513"/>
+  
+  <!-- Red band to identify AI -->
+  <rect x="9" y="5" width="12" height="3" fill="#CC0000" opacity="0.7"/>
+  
+  <!-- Face -->
+  <circle cx="14" cy="12" r="2" fill="black"/> <!-- Left eye -->
+  <circle cx="20" cy="12" r="2" fill="black"/> <!-- Right eye -->
+  <ellipse cx="17" cy="17" rx="4" ry="2" fill="#6B3100"/> <!-- Mouth -->
+  
+  <!-- Arms -->
+  <path d="M6,15 L4,20 L7,22 Z" fill="#8B4513"/> <!-- Left arm down -->
+  <path d="M24,15 L29,8 L27,6 Z" fill="#8B4513"/> <!-- Right arm raised -->
+  
+  <!-- Ears -->
+  <circle cx="11" cy="8" r="2" fill="#8B4513" stroke="#6B3100" stroke-width="0.5"/>
+  <circle cx="23" cy="8" r="2" fill="#8B4513" stroke="#6B3100" stroke-width="0.5"/>
+  
+  <!-- Feet -->
+  <path d="M10,25 L8,30 L12,30 Z" fill="#8B4513"/> <!-- Left foot -->
+  <path d="M16,25 L14,30 L18,30 Z" fill="#8B4513"/> <!-- Right foot -->
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150" width="150" height="150">
+  <!-- Main Menu Gorilla Icon (150x150px) -->
+  <!-- Body -->
+  <ellipse cx="75" cy="75" rx="50" ry="60" fill="#8B4513"/>
+  
+  <!-- Face -->
+  <circle cx="55" cy="60" r="8" fill="black"/> <!-- Left eye -->
+  <circle cx="95" cy="60" r="8" fill="black"/> <!-- Right eye -->
+  <ellipse cx="75" cy="85" rx="20" ry="10" fill="#6B3100"/> <!-- Mouth -->
+  
+  <!-- Arms -->
+  <path d="M30,75 L15,40 L25,30 Z" fill="#8B4513"/> <!-- Left arm raised -->
+  <path d="M120,75 L135,40 L125,30 Z" fill="#8B4513"/> <!-- Right arm raised -->
+  
+  <!-- Ears -->
+  <circle cx="35" cy="40" r="10" fill="#8B4513" stroke="#6B3100" stroke-width="2"/>
+  <circle cx="115" cy="40" r="10" fill="#8B4513" stroke="#6B3100" stroke-width="2"/>
+  
+  <!-- Feet -->
+  <path d="M50,125 L40,150 L60,150 Z" fill="#8B4513"/> <!-- Left foot -->
+  <path d="M100,125 L90,150 L110,150 Z" fill="#8B4513"/> <!-- Right foot -->
+  
+  <!-- Gorilla holding bananas -->
+  <path d="M25,40 C15,35 10,45 15,50 C20,55 30,50 25,40 Z" fill="#FFD700" stroke="#CC9900" stroke-width="2" transform="rotate(-30, 25, 40)"/>
+  <path d="M125,40 C135,35 140,45 135,50 C130,55 120,50 125,40 Z" fill="#FFD700" stroke="#CC9900" stroke-width="2" transform="rotate(30, 125, 40)"/>
+  
+  <!-- Highlight/Shine -->
+  <ellipse cx="65" cy="55" rx="5" ry="3" fill="white" opacity="0.5" transform="rotate(-15)"/>
+  <ellipse cx="85" cy="55" rx="5" ry="3" fill="white" opacity="0.5" transform="rotate(15)"/>
+</svg>
